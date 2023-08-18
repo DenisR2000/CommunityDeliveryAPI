@@ -1,0 +1,64 @@
+﻿<Properties StartupConfiguration="{E6118995-FBCA-4757-9A34-94AC2AA2BEF3}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi/Controllers/DeliveryContriller.cs" relfile="DeliveryServiceApi/Controllers/DeliveryContriller.cs" line="37" column="1" />
+      <Breakpoint file="/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi/Controllers/DeliveryContriller.cs" relfile="DeliveryServiceApi/Controllers/DeliveryContriller.cs" line="31" column="1" />
+      <Breakpoint file="/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi/Controllers/ApiControllers/AccountController.cs" relfile="DeliveryServiceApi/Controllers/ApiControllers/AccountController.cs" line="43" column="1" />
+      <Breakpoint file="/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi/Program.cs" relfile="DeliveryServiceApi/Program.cs" line="92" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DeliveryServiceApi/Program.cs">
+    <Files>
+      <File FileName="DeliveryServiceApi/Controllers/ApiControllers/AdminController.cs" Line="19" Column="1" />
+      <File FileName="DeliveryServiceApi/Controllers/ApiControllers/RolesController.cs" Line="1" Column="1" />
+      <File FileName="DeliveryServiceApi/Data/Models/ViewModels/ChangeRoleViewModel.cs" Line="1" Column="1" />
+      <File FileName="DeliveryServiceApi/Data/Models/ViewModels/UserViewModel.cs" Line="1" Column="1" />
+      <File FileName="DeliveryServiceApi/Data/Models/Order.cs" />
+      <File FileName="DeliveryServiceApi/Data/Cart.cs" />
+      <File FileName="DeliveryServiceApi/Data/Relations/GoodCategory.cs" />
+      <File FileName="DeliveryServiceApi/Controllers/ApiControllers/AccountController.cs" Line="55" Column="17" />
+      <File FileName="DeliveryServiceApi/Controllers/ApiControllers/UserController.cs" Line="1" Column="1" />
+      <File FileName="DeliveryServiceApi/appsettings.json" Line="1" Column="1" />
+      <File FileName="DeliveryServiceApi/Program.cs" Line="95" Column="6" />
+      <File FileName="DeliveryServiceApi/Controllers/ApiControllers/HomeDeliveryController.cs" Line="1" Column="1" />
+      <File FileName="DeliveryServiceApi/Controllers/DeliveryContriller.cs" Line="1" Column="1" />
+      <File FileName="DeliveryServiceApi/Data/Contexts/AppDbContext.cs" Line="1" Column="1" />
+      <File FileName="DeliveryServiceApi/Data/Models/ViewModels/ChangePasswordViewModel.cs" Line="1" Column="1" />
+      <File FileName="DeliveryServiceApi/Data/Models/ViewModels/LoginViewModel.cs" Line="1" Column="1" />
+      <File FileName="DeliveryServiceApi/Data/Models/ViewModels/RegisterViewModel.cs" Line="20" Column="38" />
+      <File FileName="DeliveryServiceApi/Data/Models/Good.cs" Line="1" Column="1" />
+      <File FileName="DeliveryServiceApi/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="DeliveryServiceApi/Services/OrderService.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DeliveryServiceApi" expanded="True">
+            <Node name="DeliveryServiceApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ApiControllers" expanded="True" />
+              </Node>
+              <Node name="Data" expanded="True">
+                <Node name="Contexts" expanded="True" />
+                <Node name="Models" expanded="True">
+                  <Node name="ViewModels" expanded="True" />
+                </Node>
+                <Node name="Relations" expanded="True" />
+              </Node>
+              <Node name="Extensions" expanded="True" />
+              <Node name="JWTConfig" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="DeliveryServiceData" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DeliveryServiceApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

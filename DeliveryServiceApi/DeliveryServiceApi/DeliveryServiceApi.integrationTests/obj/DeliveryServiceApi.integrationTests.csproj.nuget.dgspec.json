@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/DeliveryServiceApi.integrationTests.csproj": {}
+  },
+  "projects": {
+    "/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/DeliveryServiceApi.integrationTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/DeliveryServiceApi.integrationTests.csproj",
+        "projectName": "DeliveryServiceApi.integrationTests",
+        "projectPath": "/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/DeliveryServiceApi.integrationTests.csproj",
+        "packagesPath": "/Users/denis/.nuget/packages/",
+        "outputPath": "/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/denis/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.csproj": {
+                "projectPath": "/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.csproj",
+        "projectName": "DeliveryServiceApi",
+        "projectPath": "/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.csproj",
+        "packagesPath": "/Users/denis/.nuget/packages/",
+        "outputPath": "/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/denis/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

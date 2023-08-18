@@ -1,0 +1,916 @@
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/CoverletSourceRootsMapping
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/DeliveryServiceApi.deps.json
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/DeliveryServiceApi.runtimeconfig.json
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/appsettings.Development.json
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/appsettings.json
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/DeliveryServiceApi
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/MvcTestingAppManifest.json
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/NUnit3.TestAdapter.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/NUnit3.TestAdapter.pdb
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/nunit.engine.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/nunit.engine.api.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/nunit.engine.core.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/testcentric.engine.metadata.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/DeliveryServiceApi.integrationTests.deps.json
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/DeliveryServiceApi.integrationTests.runtimeconfig.json
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/DeliveryServiceApi.integrationTests.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/DeliveryServiceApi.integrationTests.pdb
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authentication.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authorization.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Components.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Cors.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Hosting.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.Results.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.HttpLogging.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Identity.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Localization.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Metadata.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.OutputCaching.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.RateLimiting.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Razor.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.RequestDecompression.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Routing.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Session.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.SignalR.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.CSharp.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Caching.Memory.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.DependencyInjection.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Features.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Hosting.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Http.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Identity.Core.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Identity.Stores.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Localization.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.Console.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.ObjectPool.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Options.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Primitives.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.WebEncoders.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.JSInterop.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Net.Http.Headers.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.VisualBasic.Core.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.VisualBasic.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Win32.Primitives.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Win32.Registry.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/mscorlib.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/netstandard.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.AppContext.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Buffers.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Collections.Concurrent.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Collections.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Collections.Immutable.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Collections.NonGeneric.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Collections.Specialized.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.ComponentModel.Annotations.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.ComponentModel.DataAnnotations.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.ComponentModel.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.ComponentModel.EventBasedAsync.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.ComponentModel.Primitives.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.ComponentModel.TypeConverter.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Configuration.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Console.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Core.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Data.Common.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Data.DataSetExtensions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Data.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Diagnostics.Contracts.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Diagnostics.Debug.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Diagnostics.DiagnosticSource.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Diagnostics.EventLog.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Diagnostics.FileVersionInfo.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Diagnostics.Process.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Diagnostics.StackTrace.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Diagnostics.Tools.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Diagnostics.TraceSource.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Diagnostics.Tracing.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Drawing.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Drawing.Primitives.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Dynamic.Runtime.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Formats.Asn1.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Formats.Tar.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Globalization.Calendars.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Globalization.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Globalization.Extensions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.Compression.Brotli.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.Compression.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.Compression.FileSystem.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.Compression.ZipFile.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.FileSystem.AccessControl.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.FileSystem.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.FileSystem.DriveInfo.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.FileSystem.Primitives.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.FileSystem.Watcher.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.IsolatedStorage.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.MemoryMappedFiles.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.Pipelines.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.Pipes.AccessControl.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.Pipes.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.UnmanagedMemoryStream.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Linq.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Linq.Expressions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Linq.Parallel.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Linq.Queryable.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Memory.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.Http.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.Http.Json.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.HttpListener.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.Mail.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.NameResolution.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.NetworkInformation.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.Ping.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.Primitives.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.Quic.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.Requests.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.Security.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.ServicePoint.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.Sockets.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.WebClient.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.WebHeaderCollection.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.WebProxy.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.WebSockets.Client.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.WebSockets.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Numerics.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Numerics.Vectors.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.ObjectModel.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Reflection.DispatchProxy.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Reflection.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Reflection.Emit.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Reflection.Emit.ILGeneration.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Reflection.Emit.Lightweight.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Reflection.Extensions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Reflection.Metadata.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Reflection.Primitives.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Reflection.TypeExtensions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Resources.Reader.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Resources.ResourceManager.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Resources.Writer.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.Extensions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.Handles.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.InteropServices.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.InteropServices.JavaScript.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.Intrinsics.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.Loader.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.Numerics.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.Serialization.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.Serialization.Formatters.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.Serialization.Json.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.Serialization.Primitives.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.Serialization.Xml.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.AccessControl.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.Claims.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.Cryptography.Algorithms.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.Cryptography.Cng.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.Cryptography.Csp.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.Cryptography.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.Cryptography.Encoding.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.Cryptography.OpenSsl.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.Cryptography.Primitives.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.Cryptography.X509Certificates.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.Cryptography.Xml.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.Principal.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.Principal.Windows.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.SecureString.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.ServiceModel.Web.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.ServiceProcess.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Text.Encoding.CodePages.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Text.Encoding.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Text.Encoding.Extensions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Text.Encodings.Web.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Text.Json.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Text.RegularExpressions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Threading.Channels.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Threading.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Threading.Overlapped.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Threading.RateLimiting.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Threading.Tasks.Dataflow.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Threading.Tasks.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Threading.Tasks.Extensions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Threading.Tasks.Parallel.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Threading.Thread.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Threading.ThreadPool.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Threading.Timer.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Transactions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Transactions.Local.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.ValueTuple.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Web.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Web.HttpUtility.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Windows.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Xml.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Xml.Linq.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Xml.ReaderWriter.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Xml.Serialization.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Xml.XDocument.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Xml.XmlDocument.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Xml.XmlSerializer.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Xml.XPath.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Xml.XPath.XDocument.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/WindowsBase.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Azure.Core.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Azure.Identity.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Castle.Core.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.Testing.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.AspNetCore.TestHost.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.Extensions.Hosting.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.TestPlatform.Utilities.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/testhost.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Moq.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/nunit.framework.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/DeliveryServiceApi.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/DeliveryServiceApi.pdb
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/obj/Debug/net7.0/DeliveryServiceApi.integrationTests.csproj.AssemblyReference.cache
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/obj/Debug/net7.0/MvcTestingAppManifest.json
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/obj/Debug/net7.0/DeliveryServiceApi.integrationTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/obj/Debug/net7.0/DeliveryServiceApi.integrationTests.AssemblyInfoInputs.cache
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/obj/Debug/net7.0/DeliveryServiceApi.integrationTests.AssemblyInfo.cs
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/obj/Debug/net7.0/DeliveryServiceApi.integrationTests.csproj.CoreCompileInputs.cache
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/obj/Debug/net7.0/DeliveryServiceApi.integrationTests.csproj.CopyComplete
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/obj/Debug/net7.0/DeliveryServiceApi.integrationTests.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/obj/Debug/net7.0/refint/DeliveryServiceApi.integrationTests.dll
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/obj/Debug/net7.0/DeliveryServiceApi.integrationTests.pdb
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/obj/Debug/net7.0/DeliveryServiceApi.integrationTests.genruntimeconfig.cache
+/Users/denis/Projects/DeliveryServiceApi/DeliveryServiceApi.integrationTests/obj/Debug/net7.0/ref/DeliveryServiceApi.integrationTests.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/CoverletSourceRootsMapping
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/DeliveryServiceApi.deps.json
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/DeliveryServiceApi.runtimeconfig.json
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/appsettings.Development.json
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/appsettings.json
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/DeliveryServiceApi
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/MvcTestingAppManifest.json
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/NUnit3.TestAdapter.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/NUnit3.TestAdapter.pdb
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/nunit.engine.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/nunit.engine.api.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/nunit.engine.core.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/testcentric.engine.metadata.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/DeliveryServiceApi.integrationTests.deps.json
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/DeliveryServiceApi.integrationTests.runtimeconfig.json
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/DeliveryServiceApi.integrationTests.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/DeliveryServiceApi.integrationTests.pdb
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authentication.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authorization.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Components.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Cors.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Hosting.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Http.Results.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.HttpLogging.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Identity.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Localization.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Metadata.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.OutputCaching.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.RateLimiting.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Razor.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.RequestDecompression.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Routing.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Session.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.SignalR.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.CSharp.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Caching.Memory.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.DependencyInjection.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Features.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Hosting.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Http.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Identity.Core.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Identity.Stores.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Localization.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.Console.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.ObjectPool.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Options.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.Primitives.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Extensions.WebEncoders.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.JSInterop.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Net.Http.Headers.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.VisualBasic.Core.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.VisualBasic.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Win32.Primitives.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/Microsoft.Win32.Registry.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/mscorlib.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/netstandard.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.AppContext.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Buffers.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Collections.Concurrent.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Collections.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Collections.Immutable.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Collections.NonGeneric.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Collections.Specialized.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.ComponentModel.Annotations.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.ComponentModel.DataAnnotations.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.ComponentModel.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.ComponentModel.EventBasedAsync.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.ComponentModel.Primitives.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.ComponentModel.TypeConverter.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Configuration.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Console.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Core.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Data.Common.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Data.DataSetExtensions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Data.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Diagnostics.Contracts.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Diagnostics.Debug.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Diagnostics.DiagnosticSource.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Diagnostics.EventLog.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Diagnostics.FileVersionInfo.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Diagnostics.Process.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Diagnostics.StackTrace.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Diagnostics.Tools.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Diagnostics.TraceSource.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Diagnostics.Tracing.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Drawing.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Drawing.Primitives.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Dynamic.Runtime.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Formats.Asn1.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Formats.Tar.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Globalization.Calendars.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Globalization.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Globalization.Extensions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.Compression.Brotli.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.Compression.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.Compression.FileSystem.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.Compression.ZipFile.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.FileSystem.AccessControl.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.FileSystem.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.FileSystem.DriveInfo.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.FileSystem.Primitives.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.FileSystem.Watcher.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.IsolatedStorage.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.MemoryMappedFiles.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.Pipelines.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.Pipes.AccessControl.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.Pipes.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.IO.UnmanagedMemoryStream.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Linq.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Linq.Expressions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Linq.Parallel.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Linq.Queryable.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Memory.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.Http.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.Http.Json.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.HttpListener.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.Mail.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.NameResolution.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.NetworkInformation.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.Ping.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.Primitives.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.Quic.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.Requests.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.Security.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.ServicePoint.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.Sockets.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.WebClient.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.WebHeaderCollection.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.WebProxy.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.WebSockets.Client.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Net.WebSockets.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Numerics.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Numerics.Vectors.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.ObjectModel.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Reflection.DispatchProxy.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Reflection.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Reflection.Emit.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Reflection.Emit.ILGeneration.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Reflection.Emit.Lightweight.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Reflection.Extensions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Reflection.Metadata.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Reflection.Primitives.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Reflection.TypeExtensions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Resources.Reader.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Resources.ResourceManager.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Resources.Writer.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.Extensions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.Handles.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.InteropServices.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.InteropServices.JavaScript.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.Intrinsics.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.Loader.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.Numerics.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.Serialization.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.Serialization.Formatters.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.Serialization.Json.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.Serialization.Primitives.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Runtime.Serialization.Xml.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.AccessControl.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.Claims.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.Cryptography.Algorithms.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.Cryptography.Cng.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.Cryptography.Csp.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.Cryptography.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.Cryptography.Encoding.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.Cryptography.OpenSsl.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.Cryptography.Primitives.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.Cryptography.X509Certificates.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.Cryptography.Xml.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.Principal.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.Principal.Windows.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Security.SecureString.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.ServiceModel.Web.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.ServiceProcess.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Text.Encoding.CodePages.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Text.Encoding.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Text.Encoding.Extensions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Text.Encodings.Web.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Text.Json.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Text.RegularExpressions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Threading.Channels.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Threading.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Threading.Overlapped.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Threading.RateLimiting.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Threading.Tasks.Dataflow.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Threading.Tasks.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Threading.Tasks.Extensions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Threading.Tasks.Parallel.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Threading.Thread.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Threading.ThreadPool.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Threading.Timer.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Transactions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Transactions.Local.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.ValueTuple.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Web.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Web.HttpUtility.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Windows.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Xml.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Xml.Linq.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Xml.ReaderWriter.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Xml.Serialization.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Xml.XDocument.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Xml.XmlDocument.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Xml.XmlSerializer.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Xml.XPath.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/System.Xml.XPath.XDocument.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/refs/WindowsBase.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Azure.Core.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Azure.Identity.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Castle.Core.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.Testing.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.AspNetCore.TestHost.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.Extensions.Hosting.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.TestPlatform.Utilities.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/testhost.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Moq.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Npgsql.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/nunit.framework.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/System.Drawing.Common.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/System.Memory.Data.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/System.Security.Permissions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/DeliveryServiceApi.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/DeliveryServiceData.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/DeliveryServiceApi.pdb
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/bin/Debug/net7.0/DeliveryServiceData.pdb
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/obj/Debug/net7.0/DeliveryServiceApi.integrationTests.csproj.AssemblyReference.cache
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/obj/Debug/net7.0/MvcTestingAppManifest.json
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/obj/Debug/net7.0/DeliveryServiceApi.integrationTests.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/obj/Debug/net7.0/DeliveryServiceApi.integrationTests.AssemblyInfoInputs.cache
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/obj/Debug/net7.0/DeliveryServiceApi.integrationTests.AssemblyInfo.cs
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/obj/Debug/net7.0/DeliveryServiceApi.integrationTests.csproj.CoreCompileInputs.cache
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/obj/Debug/net7.0/DeliveryServiceApi.integrationTests.csproj.CopyComplete
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/obj/Debug/net7.0/DeliveryServiceApi.integrationTests.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/obj/Debug/net7.0/refint/DeliveryServiceApi.integrationTests.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/obj/Debug/net7.0/DeliveryServiceApi.integrationTests.pdb
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/obj/Debug/net7.0/DeliveryServiceApi.integrationTests.genruntimeconfig.cache
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceApi.integrationTests/obj/Debug/net7.0/ref/DeliveryServiceApi.integrationTests.dll

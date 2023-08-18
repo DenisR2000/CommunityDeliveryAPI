@@ -1,0 +1,14 @@
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceData/bin/Debug/net7.0/DeliveryServiceData.deps.json
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceData/bin/Debug/net7.0/DeliveryServiceData.runtimeconfig.json
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceData/bin/Debug/net7.0/DeliveryServiceData.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceData/bin/Debug/net7.0/DeliveryServiceData.pdb
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceData/obj/Debug/net7.0/DeliveryServiceData.csproj.AssemblyReference.cache
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceData/obj/Debug/net7.0/DeliveryServiceData.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceData/obj/Debug/net7.0/DeliveryServiceData.AssemblyInfoInputs.cache
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceData/obj/Debug/net7.0/DeliveryServiceData.AssemblyInfo.cs
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceData/obj/Debug/net7.0/DeliveryServiceData.csproj.CoreCompileInputs.cache
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceData/obj/Debug/net7.0/DeliveryServiceData.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceData/obj/Debug/net7.0/refint/DeliveryServiceData.dll
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceData/obj/Debug/net7.0/DeliveryServiceData.pdb
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceData/obj/Debug/net7.0/DeliveryServiceData.genruntimeconfig.cache
+/Volumes/T7 Touch/Mac/DeliveryProject/DeliveryServiceApi/DeliveryServiceApi/DeliveryServiceData/obj/Debug/net7.0/ref/DeliveryServiceData.dll
